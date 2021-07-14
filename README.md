@@ -5,7 +5,7 @@ Repository of the 30 day challenge from Code School
 - we keep tracking into the progress, questions and achievements
 - join us in the discord server at https://discord.gg/ckrutnFr
 
-## Current Chalenge #00 - July, 2021
+## Current Challenge #00 - July, 2021
 - main goal: set up github repository 
 - dataset
 - tasks
