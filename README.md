@@ -7,5 +7,6 @@ Repository of the 30 day challenge from Code School
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/poletts/30-day-challenge/main)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/poletts/30-day-challenge/blob/main)
+
 
