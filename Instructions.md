@@ -12,5 +12,5 @@
    
 - to keep things organized:
   - the files from each challenge can be found in its own folder (#01, #02, #03 ...) in the main branch
-  - if you have a single file, name it as your nickname in the discord server
-  - if you have more than one file, create a sub-folder with your nickname and place all your files in it
+  - if you have a single file, name it as your username in the discord server
+  - if you have more than one file, create a sub-folder with your username and then place all your files in it
