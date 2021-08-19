@@ -8,4 +8,4 @@ Assignments:
 4. Complete the [Python](https://www.kaggle.com/learn/python) course (Days 2 to 7)
 5. Complete the [Intro to Machnie Learning](https://www.kaggle.com/learn/intro-to-machine-learning) course (Days 8 to 11)
 6. Complete the [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) course (Days 12 to 14)
-7. Join the competition (Days 15 to 30)
+7. Join the [competition](https://www.kaggle.com/c/30-days-of-ml) (Days 15 to 30)
