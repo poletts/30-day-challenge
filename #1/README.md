@@ -10,7 +10,7 @@ Assignments:
 6. Complete the [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) course (Days 12 to 14)
 7. Join the [competition](https://www.kaggle.com/c/30-days-of-ml) (Days 15 to 30)
 
-Download the data from the competition in [here](https://www.kaggle.com/c/30-days-of-ml/data) or use the API command: 
+Download the data from the competition [here](https://www.kaggle.com/c/30-days-of-ml/data) or use the following API command: 
 - kaggle competitions download -c 30-days-of-ml
 
-Intructions for setting Kaggle's API can be found in [here](https://github.com/Kaggle/kaggle-api)
+Instructions for setting Kaggle's API can be found [here](https://github.com/Kaggle/kaggle-api)
